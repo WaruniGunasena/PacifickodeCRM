@@ -320,3 +320,29 @@ GitHub:
 https://github.com/WaruniGunasena
 
 ---
+
+## Application Screenshots
+
+### Dashboard
+![Dashboard](screenshots/dashboard.png)
+
+### Departments
+![Departments](screenshots/department.png)
+
+### Add Department
+![Add Department](screenshots/addDepartment.png)
+
+### Edit Department
+![Edit Department](screenshots/editDepartment.png)
+
+### Employees
+![Employees](screenshots/employee.png)
+
+### Add Employee
+![Add Employee](screenshots/addEmployee.png)
+
+### Edit Employee
+![Edit Employee](screenshots/editEmployee.png)
+
+### Delete Record
+![Delete Record](screenshots/deleteRecord.png)
