@@ -1,0 +1,6 @@
+@PacifickodeCRMBackend_HostAddress = http://localhost:5159
+
+GET {{PacifickodeCRMBackend_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

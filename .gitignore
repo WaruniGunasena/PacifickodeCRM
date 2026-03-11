@@ -1,0 +1,16 @@
+# Node
+node_modules/
+dist/
+.env
+
+# Visual Studio
+bin/
+obj/
+.vs/
+
+# Logs
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
